@@ -1,0 +1,21 @@
+** Ko'pgina JavaScript HTML metodlaridan biri - getElementById()
+
+.innerHTML - HTML contentni biror kontentga o'zgaritishda ishlatiladi.
+
+Masalan:
+index.html - shu folder dagi misolga qarang
+
+=================================================================================
+ JavaScript Double va Single Quote larni ikkisini ham qabul qiladi. ==>  `` ==> ""
+=================================================================================
+
+
+*********************
+ Siz buni bilasizmi?
+*********************
+=============================================================================
+ 1. JavaScript va Java bir biridan mutlaqo boshqa boshqa bo'lgan tillardir
+ 2. JavaScript 1995 yilda Bredan Eich tomonidan yaratilgan.
+ 3. JavaScript 1997 yilda ECMA standartiga aylandi.
+ 4. ECMA-262 standardning ofisalniy nomi, ECMAScript tilning afitsalniy nomi.
+=============================================================================

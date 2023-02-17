@@ -1,0 +1,36 @@
+** JavaScript Display Imkoniyatlari
+
+-------------------------------------------
+ innerHTML - HTML elementlari ichiga yozadi.
+-------------------------------------------
+
+-----------------------------------------------------------------------------
+ document.write() - HTML ning chiqishiga yozadi.
+ 
+ HTML document o'qib sahifa yuklanib bo'lgandan keyin document.write() 
+ ishlatilsa to'liq HTML o'chirilib uning o'rniga yangi qiymat yozib qo'yiladi.
+ 
+ document.write() metod faqat test qilish uchun ishlatilishi kerak.
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------
+ windows.alert() - Alert box yozishda.
+ 
+ Ma'lumotni alert box qilib ko'rstishda ishlatiladi.
+ window.alert() or alert()
+ Biz window metodini o'tkaizb yuborishimiz ham mumkin.
+-----------------------------------------------------
+
+------------------------------------------------------------------
+ console.log() - Browserning consoliga biror biz ma'lumotni yozadi.
+------------------------------------------------------------------
+
+-----------------
+ JavaScript Print
+-----------------
+-----------------------------------------------------------------------------------
+ JavaScript da print obyekt yoki print metod ni o'zi yo'q
+ Siz JavaScriptdan Tashqi qurilmalarga buyruq bera olmaysiz.
+ Faqat birgina istisno tarzida siz ---- window.print() ---- metod ni browserda joriy 
+ sahifani to'liq chop etish maqsadida ishlatiladi.
+-----------------------------------------------------------------------------------

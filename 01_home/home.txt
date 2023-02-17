@@ -1,0 +1,46 @@
+************
+ JavaScript
+************
+---------------------------------------------------------------
+ 1. JavaScript dunyoning eng mashhur dasturlash tillaridan biri.
+ 2. JavaScript Web dasturlash tili hissoblandi
+ 3. JavaScript o'rganish uchun oson.
+--------------------------------------------------------------
+
+*******************************************
+ Nima uchun JavaScript ni o'rganish kerak?
+*******************************************
+
+JavaScript hamma Web ishlab chiquvchilar dasturchilar bilishi kerak bo'lgan
+3 ta tildan biridir.
+---------------------------------------------------------------
+ 1. Web sahifadagi content larni define qilish uchun - HTML
+ 2. Web sahifadagi layout larni tartibini belgilash uchun - CSS
+ 3. Web sahifalarning harakatini dasturlash uchun - JavaScript
+---------------------------------------------------------------
+
+====== Aqilli dasturchi bo'lishning yo'li ======
+Maslahat: 
+==================================
+ 1. Practice - Practice - Practice
+ 2. Code - Code - Code
+==================================
+
+======== Odatda so'raladigan Savollar ========
+==============================================
+ 1. JavaScript ni qanday olaman?
+ 2. JavaScript ni qanday yuklab olaman?
+
+ ** JavaScript ni olish yoki yuklash shart emas.
+ ** JavaScript oldindan sizning browzeringizda
+ ** sizning kompyuteringizda, flanshetingizda va 
+ ** sizning smartfonlaringizda.
+
+ 3. JavaScript bepulmi?
+
+ ** JavaScript hamma foydalanishi uchun bepul.
+==============================================
+
+
+
+

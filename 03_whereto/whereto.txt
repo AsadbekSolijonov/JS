@@ -1,0 +1,67 @@
+----------------------------------------------------------------------
+ HTML da JavaScript kod <script> va </script> teglar orasiga joylanadi
+----------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+ JavaScript ni oldingi versiyalarida <script type="type/javascript"></script>
+ ko'rinishida yozilardi hozir uni yozish muhim emas.
+-----------------------------------------------------------------------------
+
+1.
+-------------------------------------------------------------------
+ - JavaScript Function -=> JavaScript kodining blokidir, 
+ u qachon chaqirilganda ishlashi mumkin qolgan payt esa ishlamaydi.
+-------------------------------------------------------------------
+
+2.
+------------------------------ Misol uchun --------------------------------------------
+ U qandaydir event paytdo bo'lganda ishga tushadi ya'ni tugma bosilganda bo'lishi mumkin
+---------------------------------------------------------------------------------------
+
+3.
+---------------------------------------------------------------------------------------
+ JavaScript code <head> yoki <body> ichida yoki ikkisida ham joylashgan bo'lishi mumkin
+---------------------------------------------------------------------------------------
+
+4.
+----------------------------------------------------------------------------------------
+ Script ni <body> tegining pastki qismida joylashitirish, display tezligini yaxshilaydi,
+ Chunki script interpritatisyasi birinchi o'qish display ni tezligini tushurib yuboradi
+----------------------------------------------------------------------------------------
+
+5.
+----------------------------------------------------------------------
+ Scriptlar "external" (main.js) fayllarda ham joylashtirilishi mumkin.
+----------------------------------------------------------------------
+
+-----------------------------------
+** External Script ni avfzalliklari
+-----------------------------------
+* Script fayllarni External fillarda joylashtirishning muhim taraflari.
+
+---------------------------------------------------------------------
+ 1. Sctipt code larni HTML code lardan ajratib turadi.
+ 2. HTML va JavaScriptni o'qishni salashni osonlashtiradi.
+ 3. Kashlangan JavaScriptlar sahifaning yuklash va tezligini oshiradi.
+---------------------------------------------------------------------
+
+
+------------------------------------------------------
+ External scriptlarga 3 xil usul bilan ulanish mumkin.
+------------------------------------------------------
+
+1. URL - <script src="https://www.w3schools.com/js/myScript.js"></script>
+-----------------------------------------------------------------------------------
+ ** Bu usul script filga ulanish uchun to'liq aniq FULL URL manzildan foydalaniladi.
+-----------------------------------------------------------------------------------
+
+2. Inner Files - <script src="/js/myScript.js"></script>
+-----------------------------------------
+ ** Bu usulda aniq fayl yo'li ko'rsatiladi.
+-----------------------------------------
+
+3. No path - <script src="myScript.js"></script>
+----------------------------------------------------------------------------------------------------
+ ** Bu usulda hech qanday fayl yo'li ko'rsatilmadi script fayl shu manzilda birga joy;ashgan bo'ladi.
+----------------------------------------------------------------------------------------------------
+
